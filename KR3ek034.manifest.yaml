@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ek034/v1
 canonical_location: https://kanripo.org/bkk/KR3ek034/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 瘍科綱要
   identifiers:
@@ -16,11 +16,11 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR3ek034_001.yaml, hash: 'sha256:018c408938da261cebf0b85b0f42da7aa0cdc50428c33822a7450589d44fe7c2'}
-  - {seq: 3, filename: KR3ek034_003.yaml, hash: 'sha256:8a363d3e5b09164af947ae6283f7a8ff0548ac7b49a4a2646e6380058c12cfdb'}
+  - {seq: 1, filename: KR3ek034_001.yaml, hash: 'sha256:b57626461854e77a75a0d830dfd99eaadc70a2f495075be5fe8a1a0f5110cb0f'}
+  - {seq: 3, filename: KR3ek034_003.yaml, hash: 'sha256:5a53f5f86060628f6e10422251be6614b55b3c62339dcf0d933b925554ec0a7b'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3ek034_001.markers.yaml, hash: 'sha256:6f2534a74b62710ace29887a9b500f862234f38bc3bc18bf00342b622a8861f3'}
-  - {seq: 3, role: markers, filename: assets/KR3ek034_003.markers.yaml, hash: 'sha256:16ab9355936cb64ee278ee99b98e563fed540da43113da5111d63de2570b6abb'}
+  - {seq: 1, role: markers, filename: assets/KR3ek034_001.markers.yaml, hash: 'sha256:d216a647fc4de6bf75e436314cafc37819e3c0090a02dac3810b18e61a34c931'}
+  - {seq: 3, role: markers, filename: assets/KR3ek034_003.markers.yaml, hash: 'sha256:d5c047f01944593dc0f28115e9e4a3f8085252a7dbcdeb71a2281aa98e18df26'}
 table_of_contents:
 - ref:
     seq: 1
@@ -1232,4 +1232,7 @@ table_of_contents:
   label: 聤耳流膿藥
   type: section
   level: 4
-hash: sha256:60f6b51802047566938625475cbb7dc162a2e5aa9bce6fb7da832e6b77a3c823
+hash: sha256:f9daba0adb90f74296fa502fd3eb81b5dd24b06269c1ff78c85ec5594f756098
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
